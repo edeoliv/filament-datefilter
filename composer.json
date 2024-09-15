@@ -1,23 +1,23 @@
 {
-    "name": "webbingbrasil/filament-datefilter",
+    "name": "edeoliv/filament-datefilter",
     "description": "Date filter component for filament tables.",
     "keywords": [
         "laravel",
         "filament",
         "filter"
     ],
-    "homepage": "https://github.com/webbingbrasil/filament-datefilter",
+    "homepage": "https://github.com/edeoliv/filament-datefilter",
     "license": "MIT",
     "authors": [
         {
-            "name": "Danilo Andrade",
-            "email": "danilo@webbingbrasil.com.br",
+            "name": "Elias Olivtradet",
+            "email": "deoliveira.elias.eus@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^8.0",
-        "filament/tables": "^2.15"
+        "php": "^8.3",
+        "filament/tables": "^3.0"
     },
     "require-dev": {
     },

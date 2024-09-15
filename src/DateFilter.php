@@ -1,6 +1,6 @@
 <?php
 
-namespace Webbingbrasil\FilamentDateFilter;
+namespace Edeoliv\FilamentDateFilter;
 
 use Carbon\CarbonInterface;
 use Closure;
